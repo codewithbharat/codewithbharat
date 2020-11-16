@@ -40,7 +40,7 @@
 [twitter]: https://twitter.com/bharatranjan_
 [youtube]: https://youtube.com/codewithbharat
 [instagram]: https://instagram.com/bhaarat.ranjan
-[linkedin]: https://linkedin.com/in/ranjanbharat54
+[linkedin]: https://www.linkedin.com/in/bharat-ranjan-3b4a4a1bb/
 
 
 
