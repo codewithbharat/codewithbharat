@@ -1,4 +1,4 @@
-## Hi there, I'm Bharat - Science Student and developer!! 👋
+## Hi there, I'm Bharat - Science Student and Web developer!! 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
