@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **JAVA.**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://codewithbharat.github.io/portfolio/](https://codewithbharat.github.io/portfolio/)
 
 - 💬 Ask me about **C programming and python.**
 
-- 📫 How to reach me **ranjanbharat54@gmail.com**
+- 📫 How to reach me **bhaarat.ranjan@gmail.com**
 
 - ⚡ Fun fact **I'm self made programmer.**
 
