@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **MERN and Java**
+- 🌱 I’m currently learning **MERN and Java.**
 
 - 👨‍💻 All of my projects are available at [https://codewithbharat.github.io/portfolio/](https://codewithbharat.github.io/portfolio/)
 
