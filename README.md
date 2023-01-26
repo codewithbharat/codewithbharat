@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bharat Ranjan</h1>
-<h3 align="center">ASPIRING ELECTRICAL ENGINEER</h3>
+<h3 align="center">ASPIRING FULL-STACK WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithbharat&label=Profile%20views&color=0e75b6&style=flat" alt="codewithbharat" /> </p>
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **MERN and Java.**
+- 🌱 I’m currently learning **MERN and Python**
 
 - 👨‍💻 All of my projects are available at [https://codewithbharat.github.io/portfolio/](https://codewithbharat.github.io/portfolio/)
 
-- 💬 Ask me about **C programming and python.**
+- 💬 Ask me about **Web**
 
 - 📫 How to reach me **bhaarat.ranjan@gmail.com**
 
