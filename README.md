@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN and Python**
 
-- 👨‍💻 All of my projects are available at [https://codewithbharat.github.io/portfolio/](https://codewithbharat.github.io/portfolio/)
-
 - 💬 Ask me about **Web**
 
 - 📫 How to reach me **bhaarat.ranjan@gmail.com**
