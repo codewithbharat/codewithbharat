@@ -12,3 +12,5 @@
 - 📫 How to reach me **bhaarat.ranjan@gmail.com**
 
 - ⚡ Fun fact **I'm self made programmer.**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbharat&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
