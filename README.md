@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **bhaarat.ranjan@gmail.com**
 
-- ⚡ Fun fact **I'm self made programmer.**
+- ⚡ Fun fact **I'm self made Full Stack Developer.**
