@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m currently learning **MERN and Python**
+- 🌱 I’m into **MERN Stack**
 
 - 💬 Ask me about **Web**
 
