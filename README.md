@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **my skills.**
 
-- 🌱 I’m into **MERN Stack**
+- 🌱 I’m into **Android / IOS Devlopment**
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **Contributing**
 
 - 📫 How to reach me **bhaarat.ranjan@gmail.com**
 
-- ⚡ Fun fact **I'm self made Full Stack Developer.**
+- ⚡ Fun fact **I'm self made Full Stack Developer / Android / IOS Devloper**
