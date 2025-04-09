@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithbharat&label=Profile%20views&color=0e75b6&style=flat" alt="codewithbharat" /> </p>
 
-- 🔭 I’m currently working on **my skills.**
+- 🔭 I’m pusuing PG in AI / ML from **IIIT Banglore**
 
 - 🌱 I’m into **Android / IOS Devlopment**
 
